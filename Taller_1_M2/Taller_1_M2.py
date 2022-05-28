@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Solucion al taller 1 M2
+Diplomado Python aplicado a la ingeniería
+Jonathan Emilio Brito Avilez
+Número de identificación 502196
+jonathan.brito@upb.edu.co
 
-This is a temporary script file.
 """
 a=1
 b=1
